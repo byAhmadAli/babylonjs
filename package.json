@@ -78,7 +78,7 @@
     "js/babylon.objFileLoader.js",
     "js/babylon.stlFileLoader.js",
     "js/babylon.panningCamera.js",
-    "js/Tween.js"
+    "js/Tween.js",
     "package.json"
   ],
   "homepage": "https://github.com/BabylonJS/Babylon.js#readme",
