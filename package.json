@@ -45,14 +45,14 @@
   "_spec": "babylonjs",
   "_where": "/home/ahmad/gameprint",
   "author": {
-    "name": "David CATUHE"
+    "name": "Ahmad Ali"
   },
   "bugs": {
     "url": "https://github.com/BabylonJS/Babylon.js/issues"
   },
   "contributors": [
     {
-      "name": "David ROUSSET"
+      "name": "Ahmad Ali"
     }
   ],
   "dependencies": {},
